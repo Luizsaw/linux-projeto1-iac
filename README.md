@@ -22,17 +22,3 @@ O script realiza as seguintes ações:
 ### 🔐 Definição de Permissões
 - Diretórios dos grupos possuem permissão total apenas para membros do grupo  
 - O diretório público tem permissão total para todos os usuários
-
-## 🛠️ Pré-requisitos
-
-- Distribuição Linux com acesso root  
-- Bash instalado  
-- `openssl` instalado para criptografar a senha dos usuários
-
-## ▶️ Como Usar
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
